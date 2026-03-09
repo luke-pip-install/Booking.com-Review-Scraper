@@ -1,4 +1,4 @@
-## Booking.com Scraper
+## Booking.com Scraper (Stopped updating)
 ## About
 A scalable scraper that can extract all necessary hotel details from any city on Booking.com.
 Designed for research, data analysis, and personal projects requiring hotel data at scale.
